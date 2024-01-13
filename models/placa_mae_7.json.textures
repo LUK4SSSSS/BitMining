@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "placa_mae",
+        "2": "slots",
+        "3": "processador"
+      },
+      "name": "default"
+    }
+  }
+}

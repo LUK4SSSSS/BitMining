@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "bitmining:rackserver3error"
+    },
+    "facing=north": {
+      "model": "bitmining:rackserver3error"
+    },
+    "facing=east": {
+      "model": "bitmining:rackserver3error",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bitmining:rackserver3error",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bitmining:rackserver3error",
+      "y": 270
+    }
+  }
+}

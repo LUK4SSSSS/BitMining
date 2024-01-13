@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rack12s"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "bitmining:custom/0gab",
+  "textures": {
+    "all": "bitmining:blocks/gab",
+    "particle": "bitmining:blocks/gab",
+    "0": "bitmining:blocks/gab"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 336,
+          "y": 150
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "PSU",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "PSU",
+          "x": 336,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "NEXT",
+          "width": 80,
+          "height": 40,
+          "name": "NEXT",
+          "x": 480,
+          "y": 150
+        }
+      }
+    ]
+  }
+}

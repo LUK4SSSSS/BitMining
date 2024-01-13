@@ -1,0 +1,10 @@
+{
+  "parent": "bitmining:custom/placa_mae_7",
+  "textures": {
+    "all": "bitmining:blocks/placa_mae",
+    "particle": "bitmining:blocks/placa_mae",
+    "0": "bitmining:blocks/placa_mae",
+    "2": "bitmining:blocks/slots",
+    "3": "bitmining:blocks/processador"
+  }
+}

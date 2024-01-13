@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "bitmining:motherboard"
+    },
+    "facing=north": {
+      "model": "bitmining:motherboard"
+    },
+    "facing=east": {
+      "model": "bitmining:motherboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bitmining:motherboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bitmining:motherboard",
+      "y": 270
+    }
+  }
+}

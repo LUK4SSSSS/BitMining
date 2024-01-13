@@ -1,0 +1,8 @@
+{
+  "parent": "bitmining:custom/rack0gab",
+  "textures": {
+    "all": "bitmining:blocks/ackerver",
+    "particle": "bitmining:blocks/ackerver",
+    "0": "bitmining:blocks/ackerver"
+  }
+}
